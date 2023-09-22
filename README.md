@@ -1,2 +1,2 @@
-# Computer-Vision-Experiments
-This repository contains a series of computer vision experiments focusing on various image processing and computer vision tasks. The experiments cover topics such as histogram equalization, template matching, homography estimation, 3D point cloud matching, camera calibration, and more.
+# Image-Processing-Algorithms
+This repository hosts a collection of image-processing algorithms and computer vision experiments. These experiments cover various image analysis and manipulation aspects, including histogram equalization, template matching, camera calibration, 3D point cloud matching, and more.
